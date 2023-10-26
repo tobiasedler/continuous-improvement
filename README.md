@@ -19,6 +19,7 @@ Currently working on:
 - [x] Matthes, E. (2019): [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://ehmatthes.github.io/pcc_2e/regular_index/)
 - [x] Nisan, N. & S. Schocken (2021): [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://mitpress.mit.edu/9780262539807/the-elements-of-computing-systems/) with accompanying courses: [Nand To Tetris Part I & II](https://www.nand2tetris.org/)
 - [x] Massachusetts Institute of Technology (2020): [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
+- [ ] Chen, T. (2022): [Machine Learning Compilation](https://mlc.ai/)
 
 ## Mathematics
 
