@@ -20,6 +20,7 @@ Currently working on:
 - [x] Nisan, N. & S. Schocken (2021): [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://mitpress.mit.edu/9780262539807/the-elements-of-computing-systems/) with accompanying courses: [Nand To Tetris Part I & II](https://www.nand2tetris.org/)
 - [x] Massachusetts Institute of Technology (2020): [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
 - [ ] Chen, T. (2022): [Machine Learning Compilation](https://mlc.ai/)
+- [ ] Chen, T. & Z. Kolter (2022): [Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)
 
 ## Mathematics
 
