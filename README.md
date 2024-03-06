@@ -2,13 +2,12 @@
 
 Currently working on:
 
-- [ ] Frank, A. et al. (2013): [Schlüsselkompetenzen: Schreiben in Studium und Beruf](https://link.springer.com/book/10.1007/978-3-476-00919-7)
 - [ ] Epp, S. (2020): [Discrete Mathematics with Applications](https://www.cengage.uk/c/discrete-mathematics-with-applications-metric-edition-5e-epp/9780357114087/)
 
 ## Artifical Intelligence
 
 - [x] Wolf, A. (2022): [Machine Learning Simplified: A gentle introduction to supervised learning](https://themlsbook.com/)
-- [x] Harvard University (2020): [CS50’s Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
+- [x] Harvard University (2020): [CS50’s Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) (Course outline and content seem to be inspired by Russell & Norvig: [Artificial Intelligence: A Modern Appoach](https://aima.cs.berkeley.edu/))
 - [x] Karpathy, A. (2022): [Neural Networks: Zero to Hero
 ](https://karpathy.ai/zero-to-hero.html)
 - [ ] Sutton, R. S. & A. G. Barto (2018): [Reinforcement Learning: An Introduction
@@ -33,4 +32,4 @@ Currently working on:
 ## Scientific Writing
 
 - [x] Wördenweber, M. (2019): [Leitfaden für wissenschaftliche Arbeiten](https://www.esv.info/978-3-503-18211-4)
-- [ ] Frank, A. et al. (2013): [Schlüsselkompetenzen: Schreiben in Studium und Beruf](https://link.springer.com/book/10.1007/978-3-476-00919-7)
+- [x] Frank, A. et al. (2013): [Schlüsselkompetenzen: Schreiben in Studium und Beruf](https://link.springer.com/book/10.1007/978-3-476-00919-7)
