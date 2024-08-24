@@ -7,19 +7,20 @@ Currently working on:
 ## Artifical Intelligence
 
 - [x] Wolf, A. (2022): [Machine Learning Simplified: A gentle introduction to supervised learning](https://themlsbook.com/)
-- [x] Harvard University (2020): [CS50’s Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) (Course outline and content seem to be inspired by Russell & Norvig: [Artificial Intelligence: A Modern Appoach](https://aima.cs.berkeley.edu/))
+- [x] Harvard University (2020): [CS50’s Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) (Structure and content closely based on Russell & Norvig: [Artificial Intelligence: A Modern Appoach](https://aima.cs.berkeley.edu/))
 - [x] Karpathy, A. (2022): [Neural Networks: Zero to Hero
 ](https://karpathy.ai/zero-to-hero.html)
 - [ ] Sutton, R. S. & A. G. Barto (2018): [Reinforcement Learning: An Introduction
-](http://incompleteideas.net/book/the-book.html)
+](http://incompleteideas.net/book/the-book.html) (Possible accompanying course: [DeepMind x UCL | Deep Learning Lecture Series](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm))
 
 ## Computer Science
 
 - [x] Matthes, E. (2019): [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://ehmatthes.github.io/pcc_2e/regular_index/)
 - [x] Nisan, N. & S. Schocken (2021): [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://mitpress.mit.edu/9780262539807/the-elements-of-computing-systems/) with accompanying courses: [Nand To Tetris Part I & II](https://www.nand2tetris.org/)
+- [ ] Bryant, R. E. & D. R. O'Hallaron (2015): [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/3e/home.html) (Possible accompanying course: [Introduction to Computer Systems](https://www.youtube.com/playlist?list=PLbY-cFJNzq7z_tQGq-rxtq_n2QQDf5vnM); Requires knowledge of C) 
 - [x] Massachusetts Institute of Technology (2020): [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
-- [ ] Chen, T. (2022): [Machine Learning Compilation](https://mlc.ai/)
-- [ ] Chen, T. & Z. Kolter (2022): [Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)
+- [ ] *Chen, T. (2022): [Machine Learning Compilation](https://mlc.ai/)*
+- [ ] *Chen, T. & Z. Kolter (2022): [Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)*
 
 ## Mathematics
 
